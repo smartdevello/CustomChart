@@ -1,0 +1,7 @@
+*.png
+*.csv
+*.xlsx
+*.pdf
+*.zip
+fold explain
+Mech Report/bin/Debug

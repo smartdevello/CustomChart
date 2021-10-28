@@ -1,0 +1,54 @@
+﻿<Window x:Class="CustomChart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustomChart"
+        mc:Ignorable="d"
+        Title="CALIRATE CHART v3.5" Height="600" Width="1000">
+    <Grid Margin="10">
+        <DockPanel Margin="10">
+            <WrapPanel HorizontalAlignment="Center" DockPanel.Dock="Top" Margin="0,0,0,10">
+                <Button Name="btnOpenFile" Click="btnImportCSV_Click" Content=" Import CSV File " FontSize="20" Margin="0,0,30,0"></Button>
+                <Button Name="btnExportChart" Click="btnExportChart_Click" Content=" Export Chart " FontSize="20"></Button>
+            </WrapPanel>            
+        </DockPanel>
+
+        <Border 
+            Margin="10 50 10 10"
+            BorderBrush="Black"
+            BorderThickness="2"
+            Name="customChart"
+            >
+            <Canvas 
+                Name="myCanvas" Background="White"  MouseDown="myCanvas_MouseDown" Loaded="myCanvas_Loaded"
+                >
+                <DockPanel Margin="10" Panel.ZIndex="1"  Canvas.Left="400">
+                    <WrapPanel HorizontalAlignment="Center"  DockPanel.Dock="Top" >
+                        <TextBlock  Name="CharTitle" Text="PKAD- OoC Report" HorizontalAlignment="Center" FontSize="30"/>
+                    </WrapPanel>                    
+                </DockPanel>
+
+
+                <DockPanel Margin="10" Panel.ZIndex="1"  Canvas.Left="350" Canvas.Top="50" HorizontalAlignment="Right">
+                    <WrapPanel HorizontalAlignment="Center"  DockPanel.Dock="Top" >
+                        <TextBox Name="csvFilepath" Text=" "  FontSize="20" Width="570"/>
+                    </WrapPanel>
+                </DockPanel>
+                
+                <Image Name="myImage"/>
+                <DockPanel Margin="30" Panel.ZIndex="1"  Canvas.Right="10" Canvas.Bottom ="0">
+                    <WrapPanel HorizontalAlignment="Center"  DockPanel.Dock="Top" >
+                        <TextBlock  Name ="totData" Text="" HorizontalAlignment="Center" FontSize="20"/>
+                    </WrapPanel>
+                </DockPanel>
+                
+                <DockPanel Margin="10" Panel.ZIndex="1"  Canvas.Right="50" Canvas.Bottom ="0">
+                    <WrapPanel HorizontalAlignment="Center"  DockPanel.Dock="Top" >
+                        <TextBlock  Text="&#169; 2021 Tesla Laboratories, llc &amp; JHP" HorizontalAlignment="Center" FontSize="15"/>
+                    </WrapPanel>
+                </DockPanel>
+            </Canvas>
+        </Border>
+    </Grid>
+</Window>

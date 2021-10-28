@@ -1,0 +1,52 @@
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\App.g.cs
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.AssemblyInfoInputs.cache
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.AssemblyInfo.cs
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.csproj.CoreCompileInputs.cache
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.csproj.CopyComplete
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.genruntimeconfig.cache
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.csproj.AssemblyReference.cache
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.exe
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.deps.json
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.runtimeconfig.json
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.runtimeconfig.dev.json
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.dll
+D:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.pdb
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report_MarkupCompile.cache
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report_MarkupCompile.lref
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report.g.resources
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report.dll
+D:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report.pdb
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.exe
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.deps.json
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.runtimeconfig.json
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.runtimeconfig.dev.json
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.dll
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\PKAD-OoC Report.pdb
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\6\CustomChart\CustomChart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.csproj.AssemblyReference.cache
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\App.g.cs
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report_MarkupCompile.cache
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report_MarkupCompile.lref
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report.g.resources
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.AssemblyInfoInputs.cache
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.AssemblyInfo.cs
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.csproj.CoreCompileInputs.cache
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.csproj.CopyComplete
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report.dll
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\PKAD-OoC Report.pdb
+E:\My Work\2021\6\CustomChart\CustomChart\obj\Debug\netcoreapp3.1\CustomChart.genruntimeconfig.cache
